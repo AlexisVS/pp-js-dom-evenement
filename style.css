@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+}
+.red {
+    color: red;
+}
+li {
+    padding: 1.5rem 0;
+    background-color: rgb(221, 195, 200);
+    border: 1px solid black;
+}
